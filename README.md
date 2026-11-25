@@ -1,6 +1,6 @@
-# Video at Training, Context at Inference: Accuracy–Cost Trade-offs in Human Pose Estimation
+# Video Distillation at Training, Asymmetric Context at Inference: Accuracy–Cost Trade-offs in Human Pose Estimation
 
-Official repository for **"Video at Training, Context at Inference: Accuracy–Cost Trade-offs in Human Pose Estimation"**.
+Official repository for **"Video Distillation at Training, Asymmetric Context at Inference: Accuracy–Cost Trade-offs in Human Pose Estimation"**.
 
 ## Overview
 
